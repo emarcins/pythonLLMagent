@@ -1,5 +1,7 @@
 # Small LLM Agent  :file_folder:
+</br>
 Script in Python which helps to understand RAG approach (Retrieval Augmented Generation) using in work with Large Language Models.
+</br>
 </br>
 It's based on framework Llama_index (version 0.9). This agent use .csv file from Kaggle with data of world university. 
 </br>
