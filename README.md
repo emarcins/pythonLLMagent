@@ -1,13 +1,13 @@
 # Small LLM Agent  :file_folder:
 </br>
-Script in Python which helps to understand RAG approach (Retrieval Augmented Generation) using in work with Large Language Models.
+A Python script to help understand the Retrieval Augmented Generation (RAG) approach to working with large language models.
 </br>
 </br>
-It's based on framework Llama_index (version 0.9). This agent use .csv file from Kaggle with data of world university. 
+It's based on the "Llama-index" framework (version 0.9). This agent uses a .csv file from Kaggle with data of world universities.
 </br>
-The idea of work is creating a questions about the rank of Top Worldwide University and using external structured database.
+The idea of this work is to create questions about the ranking of the best universities in the world and use an external structured database.
 </br>
-You get the answer with LLM (in this project I use model 'gpt-3.5-turbo-0613'). 
+You can get the answer with LLM (in this project I use the 'gpt-3.5-turbo-0613' model).
 </br>
-Also the every answer is saved in notes.txt file (located in /data folder).
+Each response is also saved in a notes.txt file (located in the /data folder).
 
